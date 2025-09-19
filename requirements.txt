@@ -2,3 +2,4 @@ streamlit
 pandas
 pypdf2
 python-dotenv
+openai
